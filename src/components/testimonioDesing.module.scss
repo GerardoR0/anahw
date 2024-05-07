@@ -1,0 +1,27 @@
+@import "../assets/sass/variables.scss";
+ 
+.general {
+    margin: $mar;
+}
+.contenedor{
+    background-color: $nombreVariable;
+    display: flex;
+    
+    .img{
+        width: $wid500;
+        height: $hig500;
+    }
+    .datos{
+        .title{
+          text-align: center;
+        }
+        .info{
+            display: flex;
+            text-align: center;
+        }
+        .test{
+            display: flex;
+          text-align: center;
+        }
+    }
+}

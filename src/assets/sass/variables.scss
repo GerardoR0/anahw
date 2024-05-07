@@ -1,0 +1,24 @@
+$nombreVariable : gray;
+$wid: 200px;
+$hig: 200px;
+$widP: 100%;
+$higP: 100%;
+$mar: 0;
+$marG: 20px;
+$wid500: 500px;
+$hig500: 500px; 
+$wid800: 800px;
+$hig800: 800px; 
+:export{
+    nombreVariable:$nombreVariable;
+    wid: $wid;
+    hig:$hig;
+    widP:$widP;
+    higP:$higP;
+    mar: $mar;
+    marG: $marG;
+    wid500: $wid500;
+    hig500: $hig500;
+    wid800: $wid800;
+    hig800: $hig800; 
+}
